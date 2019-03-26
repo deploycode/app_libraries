@@ -1,0 +1,16 @@
+23/03/2012 06:06:22 p.m.->ogallardo | Copiar | log.txt C:\apoteosy\log.txt \fsbog001\DAD\Proyectos\PHP(desarrollos Origen: Nueva Destino: EPS)
+23/03/2012 06:06:22 p.m.->No se encontro archivo: Nueva\log.txt C:\apoteosy\log.txt \fsbog001\DAD\Proyectos\PHP(desarrollos
+23/03/2012 06:09:02 p.m.->ogallardo | Copiar | log.txt C:\apoteosy \\fsbog001\DAD\Proyectos\PHP(desarrollos Origen: Nueva Destino: EPS)
+23/03/2012 06:09:02 p.m.->No se encontro archivo: Nueva\log.txt C:\apoteosy \\fsbog001\DAD\Proyectos\PHP(desarrollos
+23/03/2012 06:09:40 p.m.->ogallardo | Copiar | log.txt C:\apoteosy \\fsbog001\DAD\Proyectos\PHP(desarrollos Origen: Nueva Destino: EPS)
+23/03/2012 06:09:40 p.m.->No se encontro archivo: Nueva\log.txt C:\apoteosy \\fsbog001\DAD\Proyectos\PHP(desarrollos
+23/03/2012 06:10:06 p.m.->ogallardo | Copiar | log.txt C:\apoteosy \\fsbog001\DAD\Proyectos\PHP(desarrollos Origen: Nueva Destino: EPS)
+23/03/2012 06:10:06 p.m.->No se encontro archivo: Nueva\log.txt C:\apoteosy \\fsbog001\DAD\Proyectos\PHP(desarrollos
+23/03/2012 06:10:27 p.m.->ogallardo | Copiar | log.txt Origen: C:\apoteosy Destino: \\fsbog001\DAD\Proyectos\PHP(desarrollos Nueva EPS)
+23/03/2012 06:26:20 p.m.->ogallardo | Copiar | log.txt Origen: C:\apoteosy Destino: \\fsbog001\DAD\Proyectos\PHP(desarrollos Nueva EPS)
+23/03/2012 06:26:35 p.m.->ogallardo | Borrar | 
+23/03/2012 06:27:02 p.m.->ogallardo | Borrar | \\fsbog001\DAD\Proyectos\PHP(desarrollos Nueva EPS)\log.txt
+23/03/2012 06:27:18 p.m.->ogallardo | Mover | log.txt Origen: C:\apoteosy Destino: \\fsbog001\DAD\Proyectos\PHP(desarrollos Nueva EPS)
+23/03/2012 06:30:54 p.m.->Ocurrio un Error. Error de inicio de sesión: el usuario no tiene permiso para tener acceso a este equipo
+23/03/2012 06:30:54 p.m.->adminapp | Copiar | log.txt Origen: C:\apoteosy Destino: \\fsbog001\shr_app
+23/03/2012 06:30:54 p.m.->Hubo un problema al Copiar No se puede encontrar una parte de la ruta de acceso '\\fsbog001\shr_app'.

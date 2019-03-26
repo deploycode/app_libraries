@@ -1,0 +1,6 @@
+<?php
+$objBd = new Bd();
+$sql = 'SELECT table_name FROM user_tables WHERE table_name = :name';
+$objBd->query($sql, array('name' => 'ESTADISTICA'));
+$elementos = $objBd->fetchAll();
+?>

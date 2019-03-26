@@ -1,0 +1,54 @@
+## Configuracion general del ambiente de la Tarea
+##base de pruebas locales
+dbPruebasLocales:
+  Integral:
+    host: 192.168.88.145
+    port: 1521
+    nombre: PRUAPPNE
+    usuario: app_direccionamiento
+    clave: "direccion*2014"
+    pdo: oracle
+
+  General:
+    host: localhost
+    port: 3306
+    nombre: db_general
+    usuario: root
+    clave: root
+    pdo: mysql
+    
+##Base de pruebas de usuario
+dbPruebasUsuario:
+  Integral:
+    host: 192.168.88.145
+    port: 1521
+    nombre: PRUAPPNE
+    usuario: app_direccionamiento
+    clave: "direccion*2014"
+    pdo: oracle
+
+  General:
+    host: localhost
+    port: 3306
+    nombre: db_general
+    usuario: root
+    clave: root
+    pdo: mysql
+    
+##Base de produccion
+dbProduccion:
+  Integral:
+    host: 192.168.88.145
+    port: 1521
+    nombre: PRUAPPNE
+    usuario: app_direccionamiento
+    clave: "direccion*2014"
+    pdo: oracle
+
+  General:
+    host: 192.168.88.139
+    port: 3306
+    nombre: db_general
+    usuario: root
+    clave: !QAZ2wsx
+    pdo: mysql
