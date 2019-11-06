@@ -38,12 +38,18 @@ dbPruebasUsuario:
 ##Base de produccion
 dbProduccion:
   Integral:
-    host: 192.168.88.162
+    host: 192.168.88.145
     port: 1521
-    nombre: NEPS_NOCAP
-    usuario: NEPS_NOCAP
+    nombre: PRUAPPNE
+    usuario: neps_nocap
     clave: "neps_nocap"
     pdo: oracle
+#    host: 192.168.88.162
+#    port: 1521
+#    nombre: Desafapp
+#    usuario: neps_nocap
+#    clave: "1p5n0c4p"
+#    pdo: oracle
 
   General:
     host: 192.168.88.139
